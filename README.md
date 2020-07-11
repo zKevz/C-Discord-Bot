@@ -3,6 +3,8 @@ A C# Discord Bot made with Discord.NET Library
 
 # Features
 
+Proper timer database. If bot off or crash, the timer will still be going!
+
 Many activities you can do.
 
 Rock Paper Scissors between 2 users.
@@ -16,4 +18,9 @@ To check more, type "c help"
 # Credits :
 
 Abood#1337 (Much helping in c#)
+
 Everyone (who sees)
+
+# Misc :
+Card one is currently not working.
+Alot of bugs at displaying countdown timer
